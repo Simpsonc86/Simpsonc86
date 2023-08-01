@@ -10,8 +10,7 @@
 ![Landing page](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/dd2ef21d-756f-4c56-b043-1f4e4f14eff4)
 ### [Webear](https://webull.onrender.com/)
 ![Landing Page](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/06c27e8b-e4b1-4687-9ecb-1186a24fadfd)
-### [Wizlet](https:![Uploading Landing Page.PNG…]()
-//wizlet.onrender.com/)
+### [Wizlet](https://wizlet.onrender.com/)
 
 
 
