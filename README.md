@@ -4,6 +4,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 ### Here is my Portfolio Website
+![Banner](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/0f174722-48b0-492b-954e-0f3d8b1994e2)
+
 ![Portfolio](https://Simpsonc86.github.io)
 
 ### Here are some of my projects:
