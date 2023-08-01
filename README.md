@@ -5,9 +5,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
 ### Here are some of my projects:
+![Capture](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/e9054740-cca6-4ce1-b113-c8b612d329a8)
 ### [ChairBnB](https://chairbnb-zv2s.onrender.com/)
+![Landing page](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/dd2ef21d-756f-4c56-b043-1f4e4f14eff4)
 ### [Webear](https://webull.onrender.com/)
-### [Wizlet](https://wizlet.onrender.com/)
+![Landing Page](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/06c27e8b-e4b1-4687-9ecb-1186a24fadfd)
+### [Wizlet](https:![Uploading Landing Page.PNG…]()
+//wizlet.onrender.com/)
 
 
 
