@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://Simpsonc86.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2"/>  
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logoColor=white" alt="portfolio badge"/>  
   </a>
 </div>
 
