@@ -65,7 +65,9 @@
   <a href="https://www.linkedin.com/in/christopher-simpson-6ab126256/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://Simpsonc86.github.io"></a>
+  <a href="https://Simpsonc86.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2"/>  
+  </a>
 </div>
 
 <!--
