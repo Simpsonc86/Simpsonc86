@@ -3,10 +3,10 @@
 ### I am a full time full-stack software engineer with a background in Education.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
-### Here is my Portfolio Website
+<!--### Here is my Portfolio Website
 ![Banner](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/0f174722-48b0-492b-954e-0f3d8b1994e2)
+-->
 
-### [Portfolio](https://Simpsonc86.github.io)
 
 <!--### Here are some of my projects:
 ![Landing Page](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/06c27e8b-e4b1-4687-9ecb-1186a24fadfd)
@@ -65,6 +65,7 @@
   <a href="https://www.linkedin.com/in/christopher-simpson-6ab126256/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  ### [Portfolio](https://Simpsonc86.github.io)
 </div>
 
 <!--
