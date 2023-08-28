@@ -9,12 +9,12 @@
 ### [Portfolio](https://Simpsonc86.github.io)
 
 ### Here are some of my projects:
-![Capture](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/e9054740-cca6-4ce1-b113-c8b612d329a8)
-### [ChairBnB](https://chairbnb-zv2s.onrender.com/)
-![Landing page](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/dd2ef21d-756f-4c56-b043-1f4e4f14eff4)
-### [Webear](https://webull.onrender.com/)
 ![Landing Page](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/06c27e8b-e4b1-4687-9ecb-1186a24fadfd)
-### [Wizlet](https://wizlet.onrender.com/)
+### [Wizlet](https://wizlet.onrender.com/) - Learning website based on public sets of user-created questions.
+![Landing page](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/dd2ef21d-756f-4c56-b043-1f4e4f14eff4)
+### [Webear](https://webull.onrender.com/) - Stock Trading Simulation with live updating portfolio.
+![Capture](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/e9054740-cca6-4ce1-b113-c8b612d329a8)
+### [ChairBnB](https://chairbnb-zv2s.onrender.com/) - Listings and bookings e-commerce site for chairs.	
 
 
 
