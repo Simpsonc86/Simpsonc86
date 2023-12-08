@@ -3,13 +3,13 @@
 ### I am a full-time full-stack software engineer with a background in Education.
 
 #### Github Stats
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=onedark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=onedark)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=tokyonight&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=tokyonight)
 
 
 ## Top Languages
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=onedark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=tokyonight)
 
 
 
