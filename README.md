@@ -3,7 +3,7 @@
 ### I am a full-time full-stack software engineer with a background in Education.
 
 #### Github Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=gotham)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=gotham)
 
 
 
