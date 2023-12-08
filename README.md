@@ -7,9 +7,9 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
 ## Top Languages
-<p align='center'>
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
-</p>
+
 
 
 <!--### Here is my Portfolio Website
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
- </div>
+</div>
 
 
 ## Interest
