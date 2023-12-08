@@ -3,9 +3,9 @@
 ### I am a full-time full-stack software engineer with a background in Education.
 
 #### Github Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=gotham)]
+
+
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
