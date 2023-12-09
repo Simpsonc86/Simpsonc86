@@ -3,8 +3,8 @@
 ### I am a full-time full-stack software engineer with a background in education. 🤩
 
 ## Github Stats 🖥⌨🖱
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=transparent&hide_border=true&border_radius=6)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=transparent&height=500px)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=transparent&hide_border=false&border_radius=6)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=transparent)
 
 
@@ -67,10 +67,6 @@
 * Fitness 🏃🏾‍♂️💨
 * Hiking 🌲🚶🏾‍♂️🌄
 * Asian Food 🍤🍜🥘
-
-
-
-
 
 ## Connect with me! 😎💱😎
 <div id="badges">
