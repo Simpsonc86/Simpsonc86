@@ -69,21 +69,21 @@
 * Asian Food 🍤🍜🥘
 
 ## Click these to connect with me! 😎💱😎
-
+<div id="badges">
   <a target=”_blank” rel="noopener" href="https://www.linkedin.com/in/christopher-simpson-sc"  >
     <img src="https://img.shields.io/badge/LinkedIn_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://Simpsonc86.github.io/" target=”_blank” rel="noopener">
     <img src="https://img.shields.io/badge/Portfolio_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="portfolio badge"/>  
   </a>
-## My other coding profiles
+  <h2>My other coding profiles</h2>
   <a href="https://www.hackerrank.com/profile/simpsonc6" target=”_blank” rel="noopener">
     <img src="https://img.shields.io/badge/HackerRank_Profile-101010?style=for-the-badge&logo=HackerRank&logoColor=0add08" alt="HackerRank badge"/>  
   </a>
   <a href="https://coderbyte.com/profile/simpsonc6" target=”_blank” rel="noopener">
     <img src="https://img.shields.io/badge/CoderByte_Profile-1dbbc2?style=for-the-badge&logo=Code%20" alt="HackerRank badge"/>  
   </a>
-
+</div>
 
 <!--
 **Simpsonc86/Simpsonc86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
