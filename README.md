@@ -3,7 +3,7 @@
 ### I am a full-time full-stack software engineer with a background in education. 🤩
 
 ## Github Stats 🖥⌨🖱
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=solarized-light&bg_color=00000000&hide_border=true&border_radius=6)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&hide_border=true&border_radius=6&bg_color=00000000&theme=solarized-light)](https://git.io/streak-stats)<br>
 ![GitHub Stats](https://github-readme-stats-five-lyart-84.vercel.app/api?username=simpsonc86&show_icons=true&theme=solarized-light&bg_color=00000000&border_radius=6&hide_border=true)<br>
 [![Top Langs](https://github-readme-stats-five-lyart-84.vercel.app/api/top-langs/?username=simpsonc86&layout=pie&theme=solarized-light&bg_color=00000000&border_radius=6&hide_border=true)](https://github.com/simpsonc86/github-readme-stats)
 
