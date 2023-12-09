@@ -1,6 +1,6 @@
 # Hi, My name is Christopher 🙏
 
-### I am a full-time full-stack software engineer with a background in Education. 🤩
+### I am a full-time full-stack software engineer with a background in education. 🤩
 
 ## Github Stats 🖥⌨🖱
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=chartreuse-dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
