@@ -5,8 +5,8 @@
 ## Github Stats 🖥⌨🖱
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&hide_border=true&border_radius=6&theme=shadow_green&background=00000000)](https://git.io/streak-stats)
 <br>
-![GitHub Stats](https://github-readme-stats-five-lyart-84.vercel.app/api?username=simpsonc86&show_icons=true&theme=shadow_green&bg_color=00000000&hide_border=true)<br>
-[![Top Langs](https://github-readme-stats-five-lyart-84.vercel.app/api/top-langs/?username=simpsonc86&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true)](https://github.com/simpsonc86/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-five-lyart-84.vercel.app/api?username=simpsonc86&show_icons=true&theme=shadow_green&bg_color=00000000&hide_border=true&card_width=100%)<br>
+[![Top Langs](https://github-readme-stats-five-lyart-84.vercel.app/api/top-langs/?username=simpsonc86&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&card_width=100%)](https://github.com/simpsonc86/github-readme-stats)
 
 
 
