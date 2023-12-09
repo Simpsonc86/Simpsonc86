@@ -4,7 +4,7 @@
 
 ## Github Stats 🖥⌨🖱
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=chartreuse-dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=chartreuse-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=chartreuse-dark?height=500)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=chartreuse-dark)
 
 
@@ -74,7 +74,7 @@
 
 ## Connect with me! 😎💱😎
 <div id="badges">
-  <a href="https://www.linkedin.com/in/christopher-simpson-sc" target=”_blank” rel="noopener">
+  <a target=”_blank” rel="noopener" href="https://www.linkedin.com/in/christopher-simpson-sc"  >
     <img src="https://img.shields.io/badge/LinkedIn_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://Simpsonc86.github.io/" target=”_blank” rel="noopener">
