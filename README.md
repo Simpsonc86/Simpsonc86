@@ -1,12 +1,12 @@
-# Hi, My name is Christopher
+# Hi, My name is Christopher 🙏
 
-### I am a full-time full-stack software engineer with a background in Education.
+### I am a full-time full-stack software engineer with a background in Education. 🤩
 
-#### Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=chartreuse-dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=chartreuse-dark)
+#### Github Stats 🖥⌨🖱
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=chartreuse-dark&hide_border=true&border_radius=6)](https://git.io/streak-stats){:style="display:block; margin-left:auto; margin-right:auto"}
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=chartreuse-dark){:style="display:block; margin-left:auto; margin-right:auto"}
 # 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=chartreuse-dark){:style="display:block; margin-left:auto; margin-right:auto"}
 
 
 
@@ -24,7 +24,7 @@
 ### [ChairBnB](https://chairbnb-zv2s.onrender.com/) - Listings and bookings e-commerce site for chairs.	
 -->
 
-## Coding Skills
+## Here's some things that put the 'SWE' in sweet for me 😏
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src='https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=ffffff'/>
@@ -61,7 +61,7 @@
 </div>
 
 
-## Interest
+## Interest 🤔
 
 * Reading
 * Basketball
@@ -73,7 +73,7 @@
 
 
 
-## Connect with me!
+## Connect with me! 😎💱😎
 <div id="badges">
   <a href="https://www.linkedin.com/in/christopher-simpson-sc">
     <img src="https://img.shields.io/badge/LinkedIn_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
