@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src='https://img.shields.io/badge/SQLalchem-ffffff?style=for-the-badge&logo=sqlalchemy&logoColor=ff0a08'/>
+  <img src='https://img.shields.io/badge/SQLalchemy-ffffff?style=for-the-badge&logo=sqlalchemy&logoColor=ff0a08'/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src='https://img.shields.io/badge/Firebase-ffa611?style=for-the-badge&logo=Firebase&logoColor=ffffff'/>
@@ -62,11 +62,11 @@
 
 ## Interest 🤔
 
-* Reading
-* Basketball
-* Fitness
-* Hiking
-* Korean Food
+* Reading 📑
+* Basketball 🏀
+* Fitness 🏃🏾‍♂️💨
+* Hiking 🌲🚶🏾‍♂️🌄
+* Asian Food 🍤🍜🥘
 
 
 
