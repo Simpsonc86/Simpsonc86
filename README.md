@@ -23,7 +23,7 @@
 ### [ChairBnB](https://chairbnb-zv2s.onrender.com/) - Listings and bookings e-commerce site for chairs.	
 -->
 
-## Here's some things that put the 'SWE' in sweet for me 😏
+## Here are some things I could help you with. 😏
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src='https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=ffffff'/>
