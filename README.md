@@ -3,10 +3,10 @@
 ### I am a full-time full-stack software engineer with a background in Education. 🤩
 
 #### Github Stats 🖥⌨🖱
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=chartreuse-dark&hide_border=true&border_radius=6)](https://git.io/streak-stats){:style="display:block; margin-left:auto; margin-right:auto"}
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=chartreuse-dark){:style="display:block; margin-left:auto; margin-right:auto"}
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=chartreuse-dark&hide_border=true&border_radius=6){:style="display:block; margin-left:auto; margin-right:auto"}](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=chartreuse-dark){:style="display:block; margin-left:auto; margin-right:auto"}]
 # 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=chartreuse-dark){:style="display:block; margin-left:auto; margin-right:auto"}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=chartreuse-dark){:style="display:block; margin-left:auto; margin-right:auto"}]
 
 
 
