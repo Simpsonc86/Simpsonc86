@@ -24,12 +24,13 @@
 ### [ChairBnB](https://chairbnb-zv2s.onrender.com/) - Listings and bookings e-commerce site for chairs.	
 -->
 
-
+## Coding Skills
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src='https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=ffffff'/>
   <img src ="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src='https://img.shields.io/badge/Kafka.js-07b0ce?style=for-the-badge&logo=apache%20kafka&logoColor=000000&color=ffffff'/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src='https://img.shields.io/badge/Tailwind_CSS-07b0ce?style=for-the-badge&logo=Tailwind%20Css&logoColor=ffffff&color=07b0ce'/>
@@ -39,7 +40,7 @@
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src='https://img.shields.io/badge/SQLalchemy_Profile-ffffff?style=for-the-badge&logo=sqlalchemy&logoColor=ff0a08'/>
+  <img src='https://img.shields.io/badge/SQLalchem-ffffff?style=for-the-badge&logo=sqlalchemy&logoColor=ff0a08'/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src='https://img.shields.io/badge/Firebase-ffa611?style=for-the-badge&logo=Firebase&logoColor=ffffff'/>
@@ -82,6 +83,9 @@
   </a>
   <a href="https://www.hackerrank.com/profile/simpsonc6">
     <img src="https://img.shields.io/badge/HackerRank_Profile-101010?style=for-the-badge&logo=HackerRank&logoColor=0add08" alt="HackerRank badge"/>  
+  </a>
+  <a href="https://coderbyte.com/profile/simpsonc6">
+    <img src="https://img.shields.io/badge/CoderByte_Profile-1dbbc2?style=for-the-badge&logo=Code%20" alt="HackerRank badge"/>  
   </a>
 </div>
 
