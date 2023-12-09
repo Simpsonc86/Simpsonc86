@@ -3,9 +3,9 @@
 ### I am a full-time full-stack software engineer with a background in education. 🤩
 
 ## Github Stats 🖥⌨🖱
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=transparent&hide_border=false&border_radius=6)](https://git.io/streak-stats)<br>
-![GitHub Stats](https://github-readme-stats-five-lyart-84.vercel.app/api?username=simpsonc86&show_icons=true&theme=transparent)<br>
-[![Top Langs](https://github-readme-stats-five-lyart-84.vercel.app/api/top-langs/?username=simpsonc86&layout=pie&theme=transparent)](https://github.com/simpsonc86/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=chartreuse-dark&bg_color=00000000&hide_border=false&border_radius=6)](https://git.io/streak-stats)<br>
+![GitHub Stats](https://github-readme-stats-five-lyart-84.vercel.app/api?username=simpsonc86&show_icons=true&theme=chartreuse-dark&bg_color=00000000)<br>
+[![Top Langs](https://github-readme-stats-five-lyart-84.vercel.app/api/top-langs/?username=simpsonc86&layout=pie&theme=chartreuse-dark&bg_color=00000000)](https://github.com/simpsonc86/github-readme-stats)
 
 
 
