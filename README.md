@@ -4,7 +4,7 @@
 
 ## Github Stats 🖥⌨🖱
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&theme=chartreuse-dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=chartreuse-dark?height=500)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simpsonc86&show_icons=true&theme=chartreuse-dark&height=500)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact&theme=chartreuse-dark)
 
 
