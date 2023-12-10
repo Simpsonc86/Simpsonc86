@@ -116,7 +116,7 @@
   <a href="https://Simpsonc86.github.io/" target=”_blank” rel="noopener">
     <img src="https://img.shields.io/badge/Portfolio_Site-8A2BE2?style=for-the-badge&logoColor=white" alt="portfolio badge"/>  
   </a>
-  <h2>My other coding profiles 🧠👨🏾‍💻🤯🏆🥇</h2>
+  <h2>Check my other coding profiles here 🧠👨🏾‍💻🤯🏆🥇</h2>
   <a href="https://www.hackerrank.com/profile/simpsonc6" target=”_blank” rel="noopener">
     <img src="https://img.shields.io/badge/HackerRank_Profile-101010?style=for-the-badge&logo=HackerRank&logoColor=0add08" alt="HackerRank badge"/>  
   </a>
