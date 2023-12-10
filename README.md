@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats-five-lyart-84.vercel.app/api/top-langs/?username=simpsonc86&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f&langs_count=20)](https://github.com/simpsonc86/github-readme-stats)
 <p align="center">
 <!--   <a href="https://github.com/simpsonc86"> -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simpsonc86&theme=shadow_green&bg_color=00000000&hide_border=true" alt="Simpsonc86's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simpsonc86" alt="Simpsonc86's GitHub Contribution"/>
 <!--   </a> -->
 </p>
 
