@@ -9,8 +9,8 @@
 ![GitHub Stats](https://github-readme-stats-five-lyart-84.vercel.app/api?username=simpsonc86&show_icons=true&theme=shadow_green&bg_color=00000000&hide_border=true&hide_title=true&text_color=7f7f7f)<br>
 [![Top Langs](https://github-readme-stats-five-lyart-84.vercel.app/api/top-langs/?username=simpsonc86&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f&langs_count=20)](https://github.com/simpsonc86/github-readme-stats)
 -->
-<div align="center">
-<p display="flex" flex-direction="column">    
+<div align="center" display="block">
+    <p display="flex" flex-direction="column" display="inline-block">    
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f" alt="Simpsonc86's GitHub Contribution 1"/>
         <img src='https://github-readme-stats-five-lyart-84.vercel.app/api?username=simpsonc86&show_icons=true&theme=shadow_green&bg_color=00000000&hide_border=true&hide_title=true&text_color=7f7f7f' alt="Simpsonc86's GitHub Contribution 2"'/>        
     </p>
