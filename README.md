@@ -3,7 +3,7 @@
 ### I am a full-time full-stack software engineer with a background in education. 🤩
 <div>
 <div align="center">
-  This is where I am right now: 
+  Currently: 
     <br>
     <br>
   <a href="https://skillicons.dev">          
@@ -12,7 +12,7 @@
 </div>
 <div align="center" display="flex" flex-direction="column">
     <br>
-  This is where I was before:
+  Previously:
     <br>
     <br>
   <a href="https://skillicons.dev">
@@ -21,7 +21,7 @@
 </div>
 <div align="center" display="flex" flex-direction="column">
     <br>
-  This is where I'll go when the time is right:
+  Next up:
     <br>
     <br>
   <a href="https://skillicons.dev">
