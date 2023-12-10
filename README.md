@@ -2,6 +2,22 @@
 
 ### I am a full-time full-stack software engineer with a background in education. 🤩
 
+This is where I am right now:
+
+![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,firebase,figma&perline=5)
+
+This is where I was before: 
+
+![My Skills](https://skillicons.dev/icons?i=java,idea,maven,kafka,spring,py,flask,html,wordpress,regex,css,tailwind,nextjs,express,aws,git,github,nodejs,bootstrap,sqlite,sequelize,postgres,postman,jest,docker,vscode,replit,md,ai,ps,pr,ae&perline=5)
+
+This is where I'll go:
+
+![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,ts,go,godot,azure,dotnet,threejs,unreal,unity,vue,swift,flutter,)
+
+Graphic Design:
+
+![My Skills](https://skillicons.dev/icons?i=ai,ae,pr,ps)
+
 <h2 align="center"> Github Stats 🖥⌨🖱</h2>
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f)](https://git.io/streak-stats)
