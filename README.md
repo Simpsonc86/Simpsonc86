@@ -9,16 +9,13 @@
 ![GitHub Stats](https://github-readme-stats-five-lyart-84.vercel.app/api?username=simpsonc86&show_icons=true&theme=shadow_green&bg_color=00000000&hide_border=true&hide_title=true&text_color=7f7f7f)<br>
 [![Top Langs](https://github-readme-stats-five-lyart-84.vercel.app/api/top-langs/?username=simpsonc86&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f&langs_count=20)](https://github.com/simpsonc86/github-readme-stats)
 -->
-<p align="center">
+<p align="center" display="flex" flex-direction="column">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f" alt="Simpsonc86's GitHub Contribution 1"/>
-</p>
-<p align="center">
-     <img src='https://github-readme-stats-five-lyart-84.vercel.app/api?username=simpsonc86&show_icons=true&theme=shadow_green&bg_color=00000000&hide_border=true&hide_title=true&text_color=7f7f7f' alt="Simpsonc86's GitHub Contribution 2"'/>
+    <img src='https://github-readme-stats-five-lyart-84.vercel.app/api?username=simpsonc86&show_icons=true&theme=shadow_green&bg_color=00000000&hide_border=true&hide_title=true&text_color=7f7f7f' alt="Simpsonc86's GitHub Contribution 2"'/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simpsonc86&theme=transparent" alt="Simpsonc86's GitHub Contribution 4"/>
     <img src="https://github-readme-stats-five-lyart-84.vercel.app/api/top-langs/?username=simpsonc86&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f&langs_count=20" alt="Simpsonc86's GitHub Contribution 3"/>
 </p>
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simpsonc86&theme=transparent" alt="Simpsonc86's GitHub Contribution 4"/>
-</p>
+
 
 
 
