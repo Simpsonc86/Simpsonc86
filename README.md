@@ -16,7 +16,7 @@
     <br>
     <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,maven,kafka,spring,angular,py,flask,redux,html,css,regex,wordpress,tailwind,nextjs,express,aws,git,github,nodejs,bootstrap,sqlite,sequelize,postgres,postman,jest,docker,vscode,netlify,heroku,md,ai,ps,pr,ae&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,idea,maven,kafka,spring,angular,py,flask,redux,html,css,regex,wordpress,tailwind,nextjs,express,aws,git,github,nodejs,sqlite,sequelize,mysql,postgres,postman,jest,docker,vscode,netlify,heroku,md,ai,ps,pr,ae&perline=5" />
   </a>
 </div>
 <div align="center" display="flex" flex-direction="column">
