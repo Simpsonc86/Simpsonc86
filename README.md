@@ -12,7 +12,7 @@ This is where I was before:
 
 This is where I'll go:
 
-![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,ts,go,godot,azure,dotnet,threejs,unreal,unity,vue,swift,flutter,)
+![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,ts,go,godot,azure,dotnet,threejs,unreal,unity,vue,swift,flutter)
 
 Graphic Design:
 
