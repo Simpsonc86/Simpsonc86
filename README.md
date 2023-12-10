@@ -1,22 +1,34 @@
 # Hi, My name is Christopher 🙏
 
 ### I am a full-time full-stack software engineer with a background in education. 🤩
-
-This is where I am right now:
-
-![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,firebase,figma&perline=5)
-
-This is where I was before: 
-
-![My Skills](https://skillicons.dev/icons?i=java,idea,maven,kafka,spring,py,flask,html,wordpress,regex,css,tailwind,nextjs,express,aws,git,github,nodejs,bootstrap,sqlite,sequelize,postgres,postman,jest,docker,vscode,replit,md,ai,ps,pr,ae&perline=5)
-
-This is where I'll go:
-
-![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,ts,go,godot,azure,dotnet,threejs,unreal,unity,vue,swift,flutter)
-
-Graphic Design:
-
-![My Skills](https://skillicons.dev/icons?i=ai,ae,pr,ps)
+<div>
+<div align="center">
+  This is where I am right now: 
+    <br>
+    <br>
+  <a href="https://skillicons.dev">          
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,firebase,figma&perline=5" />
+  </a>
+</div>
+<div align="center" display="flex" flex-direction="column">
+    <br>
+  This is where I was before:
+    <br>
+    <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,idea,maven,kafka,spring,angular,py,flask,redux,html,css,regex,wordpress,tailwind,nextjs,express,aws,git,github,nodejs,bootstrap,sqlite,sequelize,postgres,postman,jest,docker,vscode,netlify,heroku,md,ai,ps,pr,ae&perline=5" />
+  </a>
+</div>
+<div align="center" display="flex" flex-direction="column">
+    <br>
+  This is where I'll go when the time is right:
+    <br>
+    <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,go,godot,azure,kubernetes,dotnet,threejs,unreal,unity,vue,swift,flutter&perline=5" />
+  </a>
+</div>
+</div>
 
 <h2 align="center"> Github Stats 🖥⌨🖱</h2>
 <!-- 
