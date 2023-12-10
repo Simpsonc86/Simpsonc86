@@ -2,7 +2,7 @@
 
 ### I am a full-time full-stack software engineer with a background in education. 🤩
 
-## Github Stats 🖥⌨🖱
+<h2 align="center"> Github Stats 🖥⌨🖱</h2>
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f)](https://git.io/streak-stats)
 <br>
