@@ -31,12 +31,7 @@
 </div>
 
 <h2 align="center"> Github Stats 🖥⌨🖱</h2>
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f)](https://git.io/streak-stats)
-<br>
-![GitHub Stats](https://github-readme-stats-five-lyart-84.vercel.app/api?username=simpsonc86&show_icons=true&theme=shadow_green&bg_color=00000000&hide_border=true&hide_title=true&text_color=7f7f7f)<br>
-[![Top Langs](https://github-readme-stats-five-lyart-84.vercel.app/api/top-langs/?username=simpsonc86&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f&langs_count=20)](https://github.com/simpsonc86/github-readme-stats)
--->
+
 <div align="center" display="flex" flex-wrap="row-wrap">
     <p display="flex" flex-direction="column">    
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f" alt="Simpsonc86's GitHub Contribution 1"/>
@@ -45,23 +40,6 @@
     <img src="https://github-readme-stats-five-lyart-84.vercel.app/api/top-langs/?username=simpsonc86&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f&langs_count=20" alt="Simpsonc86's GitHub Contribution 3"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simpsonc86&theme=transparent" alt="Simpsonc86's GitHub Contribution 4"/>    
 </div>
-
-
-
-
-<!--### Here is my Portfolio Website
-![Banner](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/0f174722-48b0-492b-954e-0f3d8b1994e2)
--->
-
-
-<!--### Here are some of my projects:
-![Landing Page](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/06c27e8b-e4b1-4687-9ecb-1186a24fadfd)
-### [Wizlet](https://wizlet.onrender.com/) - Learning website based on public sets of user-created questions.
-![Landing page](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/dd2ef21d-756f-4c56-b043-1f4e4f14eff4)
-### [Webear](https://webull.onrender.com/) - Stock Trading Simulation with live updating portfolio.
-![Capture](https://github.com/Simpsonc86/Simpsonc86/assets/114360998/e9054740-cca6-4ce1-b113-c8b612d329a8)
-### [ChairBnB](https://chairbnb-zv2s.onrender.com/) - Listings and bookings e-commerce site for chairs.	
--->
 
 ## Here are a few things I could help you with. 😏
 <div>
@@ -98,7 +76,6 @@
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
   <img src="https://img.shields.io/badge/Jest-916f79?style=for-the-badge&logo=jest&logoColor=ffffff"/>
 </div>
-
 
 ## My interest include... 🤔
 
