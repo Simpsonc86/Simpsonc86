@@ -3,7 +3,7 @@
 ### I am a full-time full-stack software engineer with a background in education. 🤩
 
 <div align="center">
-  <a href="https://skillicons.dev">          
+  <a href="https://www.linkedin.com/in/christopher-simpson-sc">          
     <img src="https://github.com/Simpsonc86/Simpsonc86/assets/114360998/9ab7ab9a-6bf8-4cd8-b401-c418b72f34c7" />
   </a>
 </div>
