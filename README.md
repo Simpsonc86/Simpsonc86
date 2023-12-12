@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=simpsonc86&style=for-the-badge&color=brightgreen" alt=""/>
 </div>
 
-### I am a full-time full-stack software engineer with a background in education. 🤩
+<h3 align=center> I am a full-time full-stack software engineer with a background in education. 🤩</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/christopher-simpson-sc">          
