@@ -1,4 +1,7 @@
 # Hi, My name is Christopher 🙏
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=simpsonc86&style=for-the-badge&color=brightgreen" alt=""/>
+</div>
 
 ### I am a full-time full-stack software engineer with a background in education. 🤩
 
