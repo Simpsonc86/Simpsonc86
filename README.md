@@ -11,6 +11,17 @@
   </a>
   -->
 </div>
+
+<h2 align="center"> Github Stats 🖥⌨🖱</h2>
+
+<div align="center" display="flex" flex-wrap="row-wrap">
+    <p display="flex" flex-direction="column">    
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f" alt="Simpsonc86's GitHub Contribution 1"/>
+        <img src='https://github-readme-stats-five-lyart-84.vercel.app/api?username=simpsonc86&show_icons=true&theme=shadow_green&bg_color=00000000&hide_border=true&hide_title=true&text_color=7f7f7f' alt="Simpsonc86's GitHub Contribution 2"'/>        
+    </p>
+    <img src="https://github-readme-stats-five-lyart-84.vercel.app/api/top-langs/?username=simpsonc86&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f&langs_count=20" alt="Simpsonc86's GitHub Contribution 3"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simpsonc86&theme=transparent" alt="Simpsonc86's GitHub Contribution 4"/>    
+</div>
 <div>
 <div align="center">
   Currently: 
@@ -38,17 +49,6 @@
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,go,godot,azure,kubernetes,dotnet,threejs,unreal,unity,vue,swift,flutter&perline=5" />
   </a>
 </div>
-</div>
-
-<h2 align="center"> Github Stats 🖥⌨🖱</h2>
-
-<div align="center" display="flex" flex-wrap="row-wrap">
-    <p display="flex" flex-direction="column">    
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=simpsonc86&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f" alt="Simpsonc86's GitHub Contribution 1"/>
-        <img src='https://github-readme-stats-five-lyart-84.vercel.app/api?username=simpsonc86&show_icons=true&theme=shadow_green&bg_color=00000000&hide_border=true&hide_title=true&text_color=7f7f7f' alt="Simpsonc86's GitHub Contribution 2"'/>        
-    </p>
-    <img src="https://github-readme-stats-five-lyart-84.vercel.app/api/top-langs/?username=simpsonc86&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f&langs_count=20" alt="Simpsonc86's GitHub Contribution 3"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simpsonc86&theme=transparent" alt="Simpsonc86's GitHub Contribution 4"/>    
 </div>
 
 ## Here are a few things I could help you with. 😏
