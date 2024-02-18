@@ -111,7 +111,10 @@ Greetings to all! I am Christopher. I'm an educator with an even more diverse sk
     <img src="https://img.shields.io/badge/HackerRank_Profile-101010?style=for-the-badge&logo=HackerRank&logoColor=0add08" alt="HackerRank badge"/>  
   </a>
   <a href="https://coderbyte.com/profile/simpsonc6" target=”_blank” rel="noopener">
-    <img src="https://img.shields.io/badge/CoderByte_Profile-1dbbc2?style=for-the-badge&logo=Code%20" alt="HackerRank badge"/>  
+    <img src="https://img.shields.io/badge/CoderByte_Profile-1dbbc2?style=for-the-badge&logo=Code%20" alt="Coderbyte badge"/>  
+  </a>
+  <a href="https://leetcode.com/simpsonc6" target=”_blank” rel="noopener">
+    <img src="https://img.shields.io/badge/LeetCode_Profile-FFA500?style=for-the-badge&logo=Code%20" alt="LeetCode badge"/>  
   </a>
 </div>
 
