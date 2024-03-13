@@ -5,7 +5,7 @@
 
 <h3 align=center> I am a full-time full-stack software engineer with a background in education. 🤩</h3>
 
-Greetings to all! I am Christopher. I'm an educator with an even more diverse skill range in technology! I can help you tutor your kids in math, create a verbose web app, or help replace a radiator on your car to name a few. As a Full-Stack Software Engineer, I have undertaken diverse projects utilizing JavaScript, TypeScript, React/Redux, Express.js, Sequelize, Python, Flask, SQLAlchemy, AWS, Docker, HTML5, CSS, Firebase, Next.js, Jira, Figma, and many more! I am at my best when problem-solving with a team and learning new things efficiently. Let's connect!
+Greetings to all! I am Christopher. I'm an educator with an even more diverse skill range in technology! I can help you tutor your kids in math, create a verbose web app, or help replace a radiator on your car to name a few. As a Full-Stack Software Engineer, I have undertaken diverse projects utilizing JavaScript, and it's many frameworks! I will not list them all out because it is misleading towards developers looking for advice. I am at my best when problem-solving with a team and learning new things efficiently. Let's connect!
 
 <!--<div align="center">
   <a href="https://www.linkedin.com/in/christopher-simpson-sc">          
