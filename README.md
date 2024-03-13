@@ -5,8 +5,11 @@
 
 <h3 align=center> I am a full-time full-stack software engineer with a background in education. 🤩</h3>
 
-Greetings to all! I am Christopher. I'm an educator with an even more diverse skill range in technology! I can help you tutor your kids in math, create a verbose web app, or help replace a radiator on your car to name a few. As a Full-Stack Software Engineer, I have undertaken diverse projects utilizing JavaScript and its many frameworks! I will not list them all out because it is misleading towards developers looking for advice. I am at my best when problem-solving with a team and learning new things efficiently. Let's connect!
+Email: simpsonc6@winthropalumni.com
 
+Greetings to all! I am Christopher. I'm a Software Engineering Team Lead and educator with an even more diverse skill range! I can help you tutor your kids in math, create a verbose web app, or help replace a radiator on your car to name a few. As a Full-Stack Software Engineer, I have undertaken diverse projects utilizing Agile Development, OOP, and JavaScript with its many frameworks and libraries. I don't want to list them all here because it is misleading to other job seekers who may come looking for advice. I am at my best when problem-solving with a team and learning new things efficiently. Let's connect!
+
+I want to work for a company that prioritizes technical innovation. Also, having transparent business practices is very attractive from an employee standpoint. I want to grow as a developer and gain skills in large-scale data management. I am a strong team player who can prioritize deadlines and personnel support. I have experience in team-building and having any team I join produce at record levels.
 <!--<div align="center">
   <a href="https://www.linkedin.com/in/christopher-simpson-sc">          
     <img src="https://github.com/Simpsonc86/Simpsonc86/assets/114360998/9ab7ab9a-6bf8-4cd8-b401-c418b72f34c7" />
