@@ -100,7 +100,7 @@ Email: simpsonc6@winthropalumni.com
 
 ## Click these to connect with me! 😎💱😎
 <div id="badges">
-  <a target=”_blank” rel="noopener" href="https://www.linkedin.com/in/christopher-simpson-sc"  >
+  <a target=”_blank” rel="noopener" href="https://www.linkedin.com/in/christopher-simpson-scnc"  >
     <img src="https://img.shields.io/badge/LinkedIn_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://Simpsonc86.github.io/" target=”_blank” rel="noopener">
